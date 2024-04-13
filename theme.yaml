@@ -1,11 +1,11 @@
-id: bao
-name: 雪
+id: my1
+name: my雪
 author:
   name: 雪
-  website: https://baozi.fun
+  website: https://github.com/everglow96/my-xue
 description: 大道至简
 logo:
-website: https://github.com/xzhuz/halo-theme-xue
-repo: https://github.com/xzhuz/halo-theme-xue
+website: https://github.com/everglow96/my-xue
+repo: https://github.com/everglow96/my-xue
 version: 1.4.4
 require: 1.5.1
